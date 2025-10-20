@@ -1,0 +1,6 @@
+id=ommega
+name=Ommega
+version=1.2.0-nogit
+versionCode=0
+author=ommega
+description=Ommega A-side relay: remote TEE attestation via real hardware TEE
